@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void hello(void)
+{
+    puts("Ç±ÇÒÇ…ÇøÇÕÅB");
+}
+   
+int main(void) 
+{
+    hello();
+    	
+    return 0;
+}
